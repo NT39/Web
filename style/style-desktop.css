@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (min-width: 1024px)
+{
+	/*Основные настройки*/
+	body
+	{
+		width: 1024px;
+		left: 50%;
+		margin-left: -512px;
+	}
+	
+	.ms_show
+	{
+		display: none;
+	}
+	
+	/*Класс для текста с заголовком*/
+	.text
+	{
+		margin-top: 20px;
+	}
+	
+	.text h2
+	{
+		margin-left: 65px;
+	}
+	
+	.text p
+	{
+		width: 894px;
+		margin: 10px 0 0 65px;
+		font-size: 18px;
+	}
+	
+	/*Настройки меню*/
+	.menu
+	{
+		width: 994px;
+		height: 38px;
+		margin-left: 15px;
+		font-size: 22px;
+		border: solid 1px black;
+	}
+	
+	.menu .phone
+	{
+		float: right;
+		margin: 8px 15px 0 0;
+	}
+	
+	/*Настройки подвала*/
+	.footer
+	{
+		width: 994px;
+		height: 48px;
+		margin-top: 50px;
+		margin-left: 15px;
+		font-size: 22px;
+		border: solid 1px black;
+	}
+	
+	.footer p
+	{	
+		font-weight: 500;
+		padding: 17px 0 0 60px;
+		font-size: 18px;
+	}
+}

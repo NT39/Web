@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 1023px) and (min-width: 768px)
+{
+	/*Новинки*/
+	.newItems
+	{
+		margin-top: 50px;
+	}
+	
+	.newItems .item
+	{
+		float: left;
+		width: 738px;
+		margin: 30px 15px 0 15px;
+	}
+	
+	.newItems .item p
+	{
+		font-size: 18px;
+	}
+}

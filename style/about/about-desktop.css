@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (min-width: 1024px)
+{
+	/*Карта*/
+	.map
+	{
+		width: 894px;
+		margin: 20px 0 0 65px;
+	}
+	
+	.map h2
+	{
+		margin-bottom: 20px;
+	}
+	
+	/*Руководитель*/
+	.leader
+	{
+		width: 894px;
+		margin: 40px 0 0 65px;
+	}
+	
+	
+}

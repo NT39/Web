@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 767px)
+{
+	/*Продукт*/
+	.product
+	{
+		width: 100%;
+		margin-top: 60px;
+	}
+
+	.product h2
+	{
+		margin-bottom: 20px;
+	}
+	
+	.product p
+	{
+		text-align: center;
+	}
+	
+	.product img
+	{
+		
+		float: none;
+	}
+	
+	.price
+	{
+		text-align: center;
+		margin-top: 15px;
+		font-size: 28px;
+	}
+	
+	/*Характеристики*/
+	.specifications
+	{
+		width: 300;
+		margin: 20px 10px 0 10px ;
+	}
+
+	.specifications h2
+	{
+		margin-bottom: 20px;
+	}
+
+	.specifications .S_Item
+	{
+		padding: 15px 0;
+	}
+	
+	.specifications .S_Item .cell
+	{
+		width: 260px;
+		margin-left: 20px;
+		font-size: 20px;
+	}	
+}

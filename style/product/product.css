@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Продукт*/
+.product
+{
+	float: left;
+}
+
+.product h2
+{
+	text-align: center;
+}
+
+/*Характеристики*/
+.specifications
+{
+	float: left;
+	border-bottom: solid 1px black;
+}
+
+.specifications h2
+{
+	text-align: center;
+}
+
+.specifications .S_Item
+{
+	float: left;
+	width: 100%;
+	border-top: solid 1px black;
+	
+}
+
+.specifications .S_Item .cell
+{
+	float: left;
+}
+
+/*Цветовые вариации*/
+.color
+{
+	float: left;
+}
+
+.color h2
+{
+	text-align: center;
+}
+
+.color p
+{
+	text-align: center;
+}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

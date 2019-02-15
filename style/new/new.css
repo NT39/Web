@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Новинки*/
+.new
+{
+	float: left;
+}
+
+.new h1
+{
+	text-align: center;
+}
+
+.new .cont
+{
+	float: left;
+}
+
+.new .cont h2
+{
+	text-align: center;
+}
+
+.new .cont img
+{
+	float: left;
+}
+
+.new .cont h3
+{
+	font-weight: 500;		
+}
+
+.coment
+{
+	float: left;
+	padding: 5px;
+	border: 1px solid black;
+}

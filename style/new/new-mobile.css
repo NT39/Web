@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 767px)
+{
+	/*Новинки*/
+	.new 
+	{
+		width: 100%;
+		margin-top: 60px;
+	}
+	
+	.new .cont
+	{
+		width: 100%;
+	}
+	
+	.new .cont h2
+	{
+		margin-top: 20px;
+	}
+	
+	.new .cont h3
+	{
+		margin-top: 10px;
+		text-align: center;
+	}
+	
+	.new .cont p
+	{
+		text-align: center;
+	}
+	
+	.new .cont img
+	{
+		float: none;
+	}
+	
+	.coment
+	{
+		margin: 5px;
+	}
+}

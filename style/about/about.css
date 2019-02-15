@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Карта*/
+.map
+{
+	float: left;
+}
+
+.map h2
+{
+	text-align: center;
+}
+
+/*Руководитель*/
+.leader
+{
+	float: left;
+}
+
+.leader h2
+{
+	text-align: center;
+}
+
+.leader p
+{
+	text-align: center;
+}
+
+.leader img
+{
+
+	float: none;
+}

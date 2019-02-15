@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media screen and (max-width: 1023px) and (min-width: 768px)
+{
+	/*Продукт*/
+	.product
+	{
+		width: 738px;
+		margin: 20px 15px 0 15px;
+	}
+
+	.product h2
+	{
+		margin-bottom: 20px;
+	}
+	
+	.product img
+	{
+		float: left;
+	}
+	
+	.price
+	{
+		float: right;
+		margin-top: 45px;
+		font-size: 28px;
+	}
+	
+	/*Характеристики*/
+	.specifications
+	{
+		width: 738px;
+		margin: 20px 15px 0 15px;
+	}
+
+	.specifications h2
+	{
+		margin-bottom: 20px;
+	}
+
+	.specifications .S_Item
+	{
+		padding: 15px 0;
+	}
+	
+	.specifications .S_Item .cell
+	{
+		width: 369px;
+	}
+	
+	/*Цветовые вариации*/
+	.color
+	{
+		width: 738px;
+		margin: 20px 15px 0 15px;
+	}
+	
+	.color h2
+	{
+		margin-bottom: 20px;
+	}	
+}
